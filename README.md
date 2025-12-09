@@ -1,6 +1,6 @@
-Hi, I’m Chitrashree 👋
+<h1 align="center">Hi, I’m <strong>Chitrashree 👋</strong></h1>
+<h3 align="center">Backend Developer | App Developer Intern | Hackathon Finalist | ML & Security Enthusiast</h3>
 
-Backend Developer | App Developer Intern | Hackathon Finalist | ML & Security Enthusiast
 
 🚀 About Me
 🎓 B.E. in Computer Science @ BMS College of Engineering (GPA: 9.15)
