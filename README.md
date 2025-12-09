@@ -10,6 +10,7 @@ Backend Developer | App Developer Intern | Hackathon Finalist | ML & Security En
 📍 Bangalore, India
 
 🧠 Projects
+
 ⭐ 1. Smart Tourist Safety Monitoring – SIH 2025 (Selected Idea)
 AI + Blockchain–powered system using
 Blockchain Digital ID,
