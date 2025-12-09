@@ -45,10 +45,6 @@ Uses Weather API + Google Custom Search.
 Skill-learning paths • company lists • interview resources
 Using HTML/CSS/JS + PHP + MongoDB.
 
-⭐ 7. CS Basics Revision System
-Interactive CS fundamentals practice tool covering
-OS • DBMS • CN • DSA • Compilers
-Designed for interview preparation.
 
 🏆 Achievements:
 🥇 Winner – Pi-Carnival (Pentagram, BMSCE)
